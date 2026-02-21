@@ -1,0 +1,25 @@
+# ninja log v6
+39	77	7931460939869322	CMakeFiles/clean.additional	baedbe210acaa455
+77	95	7931460940382142	clean	d6542ab91c93f907
+6899	8069	7933809659491528	LAB3.exe	32d78eacbf083de
+55	1138	7933809600789909	LAB3_autogen/timestamp	4f44a9f766dc77ca
+55	1138	7933809600789909	LAB3_autogen/mocs_compilation.cpp	4f44a9f766dc77ca
+55	1138	7933809600789909	C:/UsersInterfaceLabs/LAB3/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/LAB3_autogen/timestamp	4f44a9f766dc77ca
+55	1138	7933809600789909	C:/UsersInterfaceLabs/LAB3/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/LAB3_autogen/mocs_compilation.cpp	4f44a9f766dc77ca
+1166	6899	7933809602160585	CMakeFiles/LAB3.dir/mainwindow.cpp.obj	72360c341201ef46
+1139	5842	7933809601899867	CMakeFiles/LAB3.dir/LAB3_autogen/mocs_compilation.cpp.obj	9a786ccfdabd4c01
+1160	5811	7933809602100532	CMakeFiles/LAB3.dir/main.cpp.obj	840f28e2b9e64987
+82	1095	7934119619605431	LAB3_autogen/timestamp	4f44a9f766dc77ca
+82	1095	7934119619605431	LAB3_autogen/mocs_compilation.cpp	4f44a9f766dc77ca
+82	1095	7934119619605431	C:/UsersInterfaceLabs/LAB3/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/LAB3_autogen/timestamp	4f44a9f766dc77ca
+82	1095	7934119619605431	C:/UsersInterfaceLabs/LAB3/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/LAB3_autogen/mocs_compilation.cpp	4f44a9f766dc77ca
+1116	5512	7934119620698845	CMakeFiles/LAB3.dir/main.cpp.obj	840f28e2b9e64987
+1097	5546	7934119620537174	CMakeFiles/LAB3.dir/LAB3_autogen/mocs_compilation.cpp.obj	9a786ccfdabd4c01
+1120	6249	7934119620698845	CMakeFiles/LAB3.dir/mainwindow.cpp.obj	72360c341201ef46
+6249	7133	7934119672063354	LAB3.exe	32d78eacbf083de
+24	242	7934121917453864	LAB3_autogen/timestamp	4f44a9f766dc77ca
+24	242	7934121917453864	LAB3_autogen/mocs_compilation.cpp	4f44a9f766dc77ca
+24	242	7934121917453864	C:/UsersInterfaceLabs/LAB3/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/LAB3_autogen/timestamp	4f44a9f766dc77ca
+24	242	7934121917453864	C:/UsersInterfaceLabs/LAB3/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/LAB3_autogen/mocs_compilation.cpp	4f44a9f766dc77ca
+243	5086	7934121919649646	CMakeFiles/LAB3.dir/mainwindow.cpp.obj	72360c341201ef46
+5086	5467	7934121968077680	LAB3.exe	32d78eacbf083de
